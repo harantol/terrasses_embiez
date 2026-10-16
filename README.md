@@ -2,9 +2,8 @@
 
 Site statique d'une page présentant un studio avec terrasse à Six-Fours-les-Plages
 (Var), face à l'île des Embiez. **Maquette** : le studio n'a pas encore d'annonce ;
-les éléments à compléter sont signalés par `TODO` dans `index.html`.
-Créé à partir du site de Dar Luce (`harantol/dar_luce`). Pas encore de version
-anglaise : la recréer depuis `en/index.html` d'un des autres sites.
+les éléments à compléter sont signalés par `TODO` dans `index.html` et
+`en/index.html`. Créé à partir du site de Dar Luce (`harantol/dar_luce`).
 HTML, CSS et JavaScript purs : aucune dépendance, aucune étape de build.
 
 ## Structure
